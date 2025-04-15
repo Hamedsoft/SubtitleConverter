@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTTConverter", "VTTConverter\VTTConverter.csproj", "{65F850B3-799E-4B17-AB88-650CFF44BE13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F850B3-799E-4B17-AB88-650CFF44BE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F850B3-799E-4B17-AB88-650CFF44BE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F850B3-799E-4B17-AB88-650CFF44BE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F850B3-799E-4B17-AB88-650CFF44BE13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC1A975-5724-4B75-BB67-600439B01DE3}
+	EndGlobalSection
+EndGlobal
